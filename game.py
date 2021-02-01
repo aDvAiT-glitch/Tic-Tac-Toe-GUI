@@ -18,8 +18,6 @@ Title_lbl = Label(login, text='RetroConsole(X/O)', font='Times 16 italic bold un
 Title_lbl.pack()
 Credit_lbl = Label(login, text='Made By Advait Jadhav', bg='#FF6EC7')
 Credit_lbl.pack(pady=10)
-Note_lbl = Label(login, text="(Note:-Your name shouldn't contain\nmore than 8 letters)", bg='#FF6EC7')
-Note_lbl.pack()
 
 # Paths for pyinstaller
 def resource_path(relative_path):
