@@ -6,9 +6,6 @@ Credit goes to my friends whom i met on discord
  - rdelmar#0428(Helped me add a login system) --> Lost his GitHub account
  - knighty_eight#1218(Helped me convert py to exe) --> [GitHub](https://github.com/knightyeight)
 
-## re-use of code
-Check out licence file
-
 ## more-about-this-project
 
  - repl -->[https://repl.it/@AdvaitJadhav28/TicTacToe](https://repl.it/@AdvaitJadhav28/TicTacToe)
